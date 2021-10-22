@@ -1,2 +1,2 @@
 # This is my cv.
-#Created from HTML that I learning for The Complete 2021 Web Development Bootcamp on udemy.
+This cv was created from HTML that I learned from The Complete 2021 Web Development Bootcamp on udemy.
